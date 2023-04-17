@@ -10,6 +10,6 @@ To execute the program, please adhere to the procedures below.
 
 •	Download the complete repository to your PC.  
 •	Just run the main.py file, it will evaluate all performance metrics including MCC, Accuracy, Sensitivity, Specificity, AUC, F1-score, Precision, and Recall.  
-   .. o	Provide the correct path to the data you want to test.  
+    o	Provide the correct path to the data you want to test.  
     o	Load the respective zero index file provided as .npy files  
     o	Load the respective weight file provided as .sav files.
