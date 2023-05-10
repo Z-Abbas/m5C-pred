@@ -10,7 +10,6 @@ To execute the program, please adhere to the procedures below.
 
 - Download the complete repository to your PC.  
 - Define the specie to load the specific model.
-    - It will pick the respective weight file and the zero index file itself.
 - Provide correct path to the available data.
 - Just run the main.py file, it will provide the prediction as:
     - Sequence ID
