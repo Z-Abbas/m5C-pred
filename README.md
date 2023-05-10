@@ -19,3 +19,9 @@ To execute the program, please adhere to the procedures below.
     - Probability
     - Result  
    
+## Specifications
+- Python 3.7
+- tensorflow 2.4.1
+- keras 2.4.3
+- numpy 1.18.5
+- pandas 1.2.4
