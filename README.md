@@ -9,9 +9,9 @@ To test the model, we have provided all the weight files along with other requir
 To execute the program, please adhere to the procedures below.
 
 - Download the complete repository to your PC.  
-- Define the specie to load the specific model.
-- Provide correct path to the available data.
-- Just run the main.py file, it will provide the prediction as:
+- Define the specie in main.py file to load the specific model.
+- Provide correct path to the available data in main.py file.
+- Now, run the main.py file, it will provide the prediction as:
     - Sequence ID
     - Location
     - Sequence Background
