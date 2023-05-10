@@ -9,7 +9,13 @@ To test the model, we have provided all the weight files along with other requir
 To execute the program, please adhere to the procedures below.
 
 - Download the complete repository to your PC.  
-- Just run the main.py file, it will evaluate all performance metrics including MCC, Accuracy, Sensitivity, Specificity, AUC, F1-score, Precision, and Recall.  
-    - Provide the correct path to the data you want to test.  
-    -	Load the respective zero index file provided as .npy files  
-    -	Load the respective weight file provided as .sav files.
+- Define the specie to load the specific model.
+    - It will pick the respective weight file and the zero index file itself.
+- Provide correct path to the available data.
+- Just run the main.py file, it will provide the prediction as:
+    - Sequence ID
+    - Location
+    - Sequence Background
+    - Probability
+    - Result  
+   
