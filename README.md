@@ -10,6 +10,7 @@ To execute the program, please adhere to the procedures below.
 
 - Download the complete repository to your PC.  
 - Define the specie in main.py file to load the specific model.
+    - Specie: human / mouse / AT / drosophila / zebrafish
 - Provide correct path to the available data in main.py file.
 - Now, run the main.py file, it will provide the prediction as:
     - Sequence ID
