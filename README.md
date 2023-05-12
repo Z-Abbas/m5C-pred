@@ -9,10 +9,9 @@ To test the model, we have provided all the weight files along with other requir
 To execute the program, please adhere to the procedures below.
 
 - Download the complete repository to your PC.  
-- Define the specie in main.py file to load the specific model.
-    - Specie: human / mouse / AT / drosophila / zebrafish
-- Provide correct path to the available data in main.py file.
-- Now, run the main.py file, it will provide the prediction as:
+- Now, run the main.py file using command line as:
+    - python main.py <data_path> <specie>
+- It will provide the prediction in results.txt file in the same working directory as:
     - Sequence ID
     - Location
     - Sequence Background
