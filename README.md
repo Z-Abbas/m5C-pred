@@ -10,7 +10,7 @@ To execute the program, please adhere to the procedures below.
 
 - Download the complete repository to your PC.  
 - Now, run the main.py file using command line as:
-    - python main.py <data_path> &ltspecie&gt
+    - 'python main.py <data_path> <specie>'
 - It will provide the prediction in results.txt file in the same working directory as:
     - Sequence ID
     - Location
